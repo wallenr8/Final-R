@@ -3,8 +3,13 @@
 
 <!-- badges: start -->
 <!-- badges: end -->
+Easy to use Medical/Fitness professional tool
 
-The goal of weightpackage is to calculate cardiac blood pressure output by substracting your systilyc blood pressure - diastolic blood pressure
+The goal of weightpackage:
+
+1) is to calculate your Body mass index during last 6 months.
+2) Calculate cardiac blood pressure output by substracting your systilyc blood pressure - diastolic blood pressure
+3) Recommend health option
 
 ## Installation
 
