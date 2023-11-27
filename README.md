@@ -11,8 +11,7 @@ The goal of weightpackage is to calculate cardiac blood pressure output by subst
 You can install the development version of weightpackage from https://github.com/wallenr8/Final-R.git
 
 ``` r
-# FILL THIS IN! HOW CAN PEOPLE INSTALL YOUR DEV PACKAGE?
-```
+#command install_github("https://github.com/wallenr8/Final-R")```
 
 ## Example
 
