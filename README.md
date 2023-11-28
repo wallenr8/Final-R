@@ -26,7 +26,7 @@ This is a basic example which shows you how to solve a common problem:
 ``` r
 library(weightpackage)
 ## Cardiac(45)
-# Cardiac (20)
+# Cardiac(20)
 
 #Plot
 There isnt a legend, from the source code, it should be note that the area between the Blue line(Optimal cardiac output = 2880 L/m and Red line represents the patient's cardiac output.  No red line means an optimal cardiac output result(40L/m).
