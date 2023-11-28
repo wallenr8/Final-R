@@ -8,9 +8,11 @@ Easy to use Medical/Fitness professional tool
 The goal of weightpackage:
 
 1) Calculate your Body mass index during last 6 months.
-2) Calculates cardiac blood pressure output by subtracting patient's systolic blood pressure - diastolic blood pressure
-3) Recommend health option
-4) Create visualization of weight and heart rate.
+2) Calculates cardiac blood pressure output by subtracting patient's systolic blood pressure - diastolic blood pressure.
+3) Calculates Cardiac Output -> Stroke Volume of patient
+4) Recommend health option(s)
+5) Create visualization of weight and heart rate.
+6) Use R-Calculus to find cross section area of cardiac output.
 
 ## Installation
 
