@@ -22,7 +22,8 @@ w6 = readline("Enter sixth Weight value: ");
 w1 = as.numeric(w1); w2 = as.numeric(w2); w3 = as.numeric(w3); 
 w4 = as.numeric(w4); w5 = as.numeric(w5); w6 = as.numeric(w6); h = as.numeric(h);  
 avgw <-( as.numeric(w1)+as.numeric(w2)+as.numeric(w3)+as.numeric(w4)+as.numeric(w5)+as.numeric(w6))/6; 
-print(avgw); 
+print(avgw); secureavg <- gsub("[^[:alnum:] ]", "", input)
+  return(secureavg)
 
 
 ## BMI formula 
